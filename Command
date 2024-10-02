@@ -1,0 +1,11 @@
+https://github.com/Raviraaj311/Raviraaj311.git
+echo "# Raviraaj311" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Raviraaj311/Raviraaj311.git
+git push -u origin main
+git remote add origin https://github.com/Raviraaj311/Raviraaj311.git
+git branch -M main
+git push -u origin main
